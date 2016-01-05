@@ -1,0 +1,9 @@
+/ignoreAccessChecks
+/metadataFile "C:\Users\jrpal_000\Documents\Visual Studio 2015\Projects\100Win10Intro-Demo\100Win10Intro-Demo\obj\x86\Release\ilc\intermediate\ILTransformed\100Win10Intro-Demo.metadata"
+/reflectionMetadataAssemblyName "System.Private.CoreLib"
+/o
+/sharedGenerics
+/ilmergeinfo "C:\Users\jrpal_000\Documents\Visual Studio 2015\Projects\100Win10Intro-Demo\100Win10Intro-Demo\obj\x86\Release\ilc\intermediate\ILTransformed\100Win10Intro-Demo.csv"
+/sharedGenericsMode StandardHeuristics
+/in "C:\Users\jrpal_000\Documents\Visual Studio 2015\Projects\100Win10Intro-Demo\100Win10Intro-Demo\obj\x86\Release\ilc\intermediate\ILTransformed\100Win10Intro-Demo.ilexe"
+/out "C:\Users\jrpal_000\Documents\Visual Studio 2015\Projects\100Win10Intro-Demo\100Win10Intro-Demo\obj\x86\Release\ilc\intermediate\MDIL\100Win10Intro-Demo.mdilexe"
